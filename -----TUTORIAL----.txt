@@ -1,0 +1,22 @@
+PARA CONFIGURAR A TELA
+BASTA IR NA PASTA "api"
+
+editar o arquivo "db"
+
+colocar os dados do seu banco de dados.
+salvar o arquivo!
+
+criar um banco de dados no seu host
+e upar o arquivo ita2022.sql
+pronto!
+
+para logar no admin
+o nome da pasta e 'sistema'
+
+se nao tiver login ainda
+vai pedir pra vc cadastrar usuario e senha
+apos isso
+vc vai ser redirecionado pra tela de login
+!
+
+=================

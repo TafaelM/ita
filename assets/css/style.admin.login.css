@@ -1,0 +1,95 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+html, body{
+	height: 100%;
+}
+
+body{
+	background-color: #ee7421;
+}
+
+.corpo-frm{
+	width: 95%;
+	max-width: 300px;
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-o-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	background-color: #003469;
+	padding: 10px;
+	box-sizing: border-box;
+	border-radius: 3px;
+}
+
+.corpo-frm h2{
+	font-family: Arial, sans-serif, tahoma;
+	font-size: 18px;
+	font-weight: 800;
+	color: #fff;
+}
+
+.corpo-frm .frm-item{
+	width: 100%;
+	text-align: left;
+	margin: 15px 0px;
+}
+
+.corpo-frm .frm-item label{
+	font-family: Arial, sans-serif, tahoma;
+	font-size: 16px;
+	color: #fff;
+}
+
+.corpo-frm .frm-item input{
+	width: 100%;
+	height: 40px;
+	background-color: #fff;
+	border: 1px #ccc solid;
+	border-radius: 3px;
+	margin: 5px 0px;
+	padding-left: 3px;
+	box-sizing: border-box;
+	outline: none;
+	font-family: Arial, sans-serif, tahoma;
+	font-size: 16px;
+	color: #000;
+}
+
+.corpo-frm .btn{
+	width: 70%;
+	height: 40px;
+	background-color: #0160c1;
+	border: 0px;
+	border-radius: 3px;
+	font-family: Arial, sans-serif, tahoma;
+	font-size: 16px;
+	color: #fff;
+	outline: none;
+}
+
+.corpo-frm .btn:active{
+	background-color: #004287;
+}
+
+.error{
+	width: 100%;
+	height: 50px;
+	background-color: #cc0000;
+	border-radius: 3px;
+	text-align: center;
+}
+
+.error p{
+	font-family: Arial, sans-serif, tahoma;
+	font-size: 16px;
+	color: #fff;
+	line-height: 50px;
+}
